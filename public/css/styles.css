@@ -1,0 +1,42 @@
+body {
+    background-color: cadetblue;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 20px;
+}
+h4{
+    font-size: 35px;
+}
+
+p{
+    font-size: 17px;
+    line-height: 25px;
+}
+
+p strong{
+    background-color: orange;
+    color: white;
+    font-style: italic;
+}
+
+strong{
+    color: green;
+}
+
+.parrafo-destacado{
+    color: salmon;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.parrafo-destacado em{
+    color: red;
+    text-transform: uppercase;
+}
